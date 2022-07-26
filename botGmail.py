@@ -66,7 +66,7 @@ Total de itens vendidos: {quantidade:,}
 Total de faturamento: R${faturamento:,.2f} 
 
 Grato,
-Bot1 rs
+Bot rs
 '''
 pg.write(texto, interval=0.05)
 pg.hotkey('ctrl', 'Enter')
