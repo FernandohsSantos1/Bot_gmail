@@ -13,5 +13,6 @@ O programa recebe como parametros de entrada:
    
 ** A automatização do mouse através do pyautogui é calculada a partir de resolução
 da tela, então é necessário ajustes para monitores com resoluções diferentes.
+
 ** É possivel descobrir a posição do mouse através do comando pyautogui.position()
   
